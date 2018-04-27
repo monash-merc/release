@@ -1,11 +1,6 @@
 __Note__: this will be moved to the MyTardis organisation once the documentation
 is a little more formalised.
 
-# Thanks to GitLab
-First and foremost, we wish to acknowledge that the release process adopted by MyTardis is heavily
-inspired by Gitlab and that much of this documentation is simply adpated from the
-excellent [Gitlab release documentation](https://gitlab.com/gitlab-org/release/docs/).
-
 # MyTardis Release Process
 
 This repository contains instructions for releasing new versions of
@@ -77,3 +72,8 @@ does not apply when going over the deadline, so do not be late!
 ## License
 
 See [LICENSE](./LICENSE).
+
+# Thanks to GitLab
+We wish to acknowledge that the release process adopted by MyTardis is heavily
+inspired by Gitlab and that much of this documentation is simply adpated from the
+excellent [Gitlab release documentation](https://gitlab.com/gitlab-org/release/docs/).
