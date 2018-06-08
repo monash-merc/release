@@ -39,15 +39,15 @@ that follow.
 
 ## Getting Started
 
-It is the ### of the month and you need to get started with preparations for your
+It is the 7th of the month and you need to get started with preparations for your
 tasks.
 
 Start with [Onboarding](../general/onboarding.md). Don't worry, we'll wait for you here.
 
 ### Release meta issue
 
-Create a [new issue in the release/task project](https://github.com/mytardis/release/issues/new)
-and select `monthly_release_issue` template.
+Create a [new issue in the release/task project](https://github.com/mytardis/release/issues/new?template=rm_stable_release_meta.md)
+with the `monthly_release_issue` template.
 
 The title of the issue should be `Release X.Y.0`, where `X.Y` is the version you
 are working on.
