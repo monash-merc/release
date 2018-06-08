@@ -24,29 +24,6 @@ does not apply when going over the deadline, so do not be late!
 
 - [Starting as Release manager](quickstart/release-manager.md)
 
-## Releasing monthly stable version
-
-- [General process overview](general/monthly/process.md)
-- [Release manager in monthly release](general/monthly/release-manager.md)
-- [Developer in monthly release](general/monthly/developer.md)
-- [Quality engineer in monthly release](general/monthly/quality.md)
-- [Product manager in monthly release](general/monthly/product-manager.md)
-
-## Releasing patch versions
-
-- [General process overview](general/patch/process.md)
-- [Release manager in patch release](general/patch/release-manager.md)
-- [Developer in patch release](general/patch/developer.md)
-- [Quality engineer in patch release](general/patch/quality.md)
-
-## Security release
-
-- [General process overview](general/security/process.md)
-- [Release manager in security release](general/security/release-manager.md)
-- [Security engineer in security release](general/security/security-engineer.md)
-- [Developer in security release](general/security/developer.md)
-- [Quality engineer in security release](general/security/quality.md)
-
 ## Guides
 
 - [How to release new minor versions of MyTardis each month](general/monthly.md)
@@ -55,14 +32,8 @@ does not apply when going over the deadline, so do not be late!
 - [How to pick specific changes into `stable` branches](general/pick-changes-into-stable.md)
 - [How to create release candidates for new monthly versions of MyTardis](general/release-candidates.md)
 - [How to perform manual QA testing](general/qa-checklist.md)
-- [How to push to multiple remotes at once](general/push-to-multiple-remotes.md)
-- [How to remove packages from packages.gitlab.com](general/remove-packages.md)
-- [How to push a new omnibus tag version](general/omnibus-tag.md)
-- [Required permissions to tag and deploy a release](general/permissions.md)
 - [Guidelines for a new major release of MyTardis](general/major.md)
 - [Pro tips](general/pro-tips.md)
-- [Release template files](.github/issues)
-- [How to pick changes for Omnibus MyTardis](general/pick-to-omnibus-gitlab.md)
 
 ## Further Reading
 
