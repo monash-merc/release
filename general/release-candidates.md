@@ -2,8 +2,8 @@
 
 Release Candidates (RCs) are pre-release versions of the next major version of
 MyTardis. The first RC, appropriately called RC1, is typically created
-on the ###. This is because we have a feature freeze, and new features can only
-be merged into the release up to the ###.
+on the 8th. This is because we have a feature freeze, and new features can only
+be merged into the release up to the 7th.
 
 Every release will have 1 or more RCs, and there is no limit on the final number.
 
