@@ -1,6 +1,6 @@
 # Release Manager
 
-The release manager drives the [monthly release] of GitLab as well as any
+The release manager drives the [monthly release] of MyTardis as well as any
 [patch]/[security] releases for that version.
 
 [monthly release]: ../general/monthly.md
@@ -73,9 +73,6 @@ Release Candidate (RC) is a point in time snapshot of what will become a release
 Any RC that gets created can be considered for final release.
 
 The most important and time-critical RC is the initial one created after feature freeze.
-
-After the first RC gets deployed to GitLab.com, you should consider creating
-a RC every day until the final release.
 
 Why we hear you ask? More details can be found in [release candidates][release-candidates]
 document.

@@ -1,7 +1,7 @@
 
 # Creating "Update" guides
 
-Each major release of GitLab needs a corresponding [update guide](https://github.com/mytardis/mytardis/tree/develop/docs/updates)
+Each major release of MyTardis needs a corresponding [update guide](https://github.com/mytardis/mytardis/tree/develop/docs/updates)
 with instructions on how to manually upgrade from the previous major release.
 
 1. Copy the previous update guide to use as a template:

@@ -11,7 +11,7 @@ and exception requests.
   * Note: Replace `X.Y` with the version you are working on.
 - [ ] Create new issues in the [MyTardis issue tracker] for the release, following the [Monthly], [Patch] or [Security] guides.
 - [ ] Create a `series-X.Y` branch for the new release.
-- [ ] Follow the initial steps for [creating the first RC](https://gitlab.com/gitlab-org/release/docs/blob/master/general/release-candidates.md#creating-rc1):
+- [ ] Follow the initial steps for [creating the first RC](https://github.com/mytardis/release/blob/master/general/release-candidates.md#creating-rc1):
   - [ ] Create a PR on `develop` updating the "Admin install" guide.
   - [ ] [Pick][cherry-pick] the changes to the "Admin install" into a PR against
   the `series-X.Y` branch.
